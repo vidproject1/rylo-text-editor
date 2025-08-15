@@ -75,7 +75,7 @@ A minimalist, terminal-inspired text editor built with Electron. Designed for ke
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/vidproject1/rylo-text-editor.git
    cd rylo-text-editor
    ```
 
