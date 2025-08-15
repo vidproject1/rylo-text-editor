@@ -133,4 +133,3 @@ npm run build-linux  # Linux
 - The status bar shows current file and cursor position
 - Resize the command panel by dragging the top border
 
-## 🏗️ Project Structure
