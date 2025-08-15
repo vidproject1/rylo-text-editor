@@ -1,13 +1,26 @@
 {
   "name": "rylo-text-editor",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A minimalist, terminal-inspired text editor built with Electron",
+  "main": "rylo text editor/main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "cd \"rylo text editor\" && npm start",
+    "dev": "cd \"rylo text editor\" && npm run dev",
+    "build": "cd \"rylo text editor\" && npm run build",
+    "install-deps": "cd \"rylo text editor\" && npm install"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/rylo-text-editor.git"
+  },
+  "keywords": [
+    "text-editor",
+    "electron",
+    "terminal",
+    "minimalist",
+    "developer-tools"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "homepage": "https://github.com/yourusername/rylo-text-editor#readme"
 }
